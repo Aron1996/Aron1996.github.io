@@ -780,9 +780,10 @@ footer a:hover {
   content: '.';
 }
 .contact{
+	/*
 	float:left;
 	margin-left:2em;
-
+	*/
 }
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
